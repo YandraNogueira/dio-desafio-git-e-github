@@ -10,9 +10,5 @@
 |-------|---------|
 | Introdução ao Desenvolvimento e Criação de Jogos | [Resumo](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EcLOJ3auRaFMu2VWh0RDonUBb6xAx3hdkKYFnPePRFvL2w?e=edl0ww) |
 
-```
-git init 
-```
-
 ## 🔍 Referências
 - [Digital Innovation One]().
